@@ -1,4 +1,4 @@
-#  Laboratoire Réseau Sécurisé – WAN / LAN / DMZ (pfSense + Cisco)
+#  Lab Réseau Sécurisé – WAN / LAN / DMZ (pfSense + Cisco)
 
 Ce dépôt regroupe mes deux environnements de laboratoire dédiés à la segmentation réseau et à la sécurité d’infrastructure :
 
