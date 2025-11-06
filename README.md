@@ -41,6 +41,7 @@ Ce dépôt regroupe mes deux environnements de laboratoire dédiés à la segmen
 - Routage inter-VLAN (HSRP + OSPF)
 - Pare-feux redondants (FWL1/FWL2)
 - Serveurs DHCP, DNS, Web et Mail
+![réseau d'entreprise](Final_security_network.png)
 
 **Configurations :**
 
